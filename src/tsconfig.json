@@ -10,6 +10,9 @@
     "moduleResolution": "node",
     "outDir": "../dist/out-tsc",
     "sourceMap": true,
+    "types": [
+      "knockout"
+    ],
     "target": "es5",
     "typeRoots": [
       "../node_modules/@types"
